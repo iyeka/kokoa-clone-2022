@@ -21,20 +21,17 @@
   - element(info inside block): .btn\_\_price
   - modifier(feature of block): .btn--orange, .btn--big
 
--_form에서 버튼 만드는 법 2가지_
+- _form에서 버튼 만드는 법 2가지_
+  - input type="submit"
+  - <button></button>
 
-- input type="submit"
-- <button></button>
+- _<h1>, <p>태그 같은 텍스트 사용할 때는 display:flex 말고 text-align:center 사용할 수 있음!_
 
--_<h1>, <p>태그 같은 텍스트 사용할 때는 display:flex 말고 text-align:center 사용할 수 있음!_
+- _fontawesome 아이콘 안 뜰 시 2가지_
+  - style="font-family:Arial, FontAwesome" 추가
+  - <script src="https://kit.fontawesome.com/493cc16663.js" crossorigin="anonymous">
 
--_fontawesome 아이콘 안 뜰 시 2가지_
-
-- style="font-family:Arial, FontAwesome" 추가
-- <script src="https://kit.fontawesome.com/493cc16663.js" crossorigin="anonymous">
-
--_placeholder 안에 아이콘 넣기_
-
+- _placeholder 안에 아이콘 넣기_
 - use hex codes(can be found in the Font Awesome cheatsheet)
 
 ### 😭 보완사항
