@@ -1,0 +1,27 @@
+.settings__setting {
+    padding: 20px 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.settings__setting:nth-child(3) {
+    border-bottom: var(--main-border);
+    padding-bottom: 40px;
+}
+
+.settings__setting:nth-child(4) {
+    padding-top: 40px;
+}
+
+.settings__setting i {
+    opacity: 0.8;
+    margin-right: 20px;
+    font-size: 22px;
+}
+
+.settings__setting-right {
+    color: var(--grey5);
+}
