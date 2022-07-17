@@ -18,6 +18,11 @@
 @import "screens/more.css";
 @import "screens/settings.css";
 @import "screens/chats.css";
+@import "screens/chat.css";
+
+* {
+    box-sizing: border-box;
+}
 
 body {
     /* font-family: 'Edu VIC WA NT Beginner', cursive; */
