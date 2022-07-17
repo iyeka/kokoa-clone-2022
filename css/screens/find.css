@@ -1,0 +1,131 @@
+.find-icons {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.find-icons__icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.find-icons__icon i {
+    font-size: 35px;
+}
+
+.find-icons__icon span {
+    margin-top: 18px;
+}
+
+.recommended-friends {
+    margin: 18px 0px;
+    padding: 9px 0px;
+    border-top: var(--main-border);
+    border-bottom: var(--main-border);
+}
+
+.recommended-friends__title {
+    font-size: 14px;
+    color: var(--grey5);
+}
+
+.recommended-friends span {
+    margin: 100px 0px;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    color: var(--grey5);
+}
+
+.open-chat__header {
+    display: flex;
+    justify-content: space-between;
+    color: var(--grey8);
+    margin-bottom: 25px;
+}
+
+.open-chat__header span{
+    opacity: 0.6;
+}
+
+.open-post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.open-post__title {
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+.open-post__hashtags {
+    transform: uppercase;
+    opacity: 0.6;
+}
+
+.open-post__members {
+    display: flex;
+    align-items: center;
+}
+
+.open-post__members img {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-top: 7px;
+    margin-right: 5px;
+}
+
+.open-post__member-count {
+    opacity: 0.5;
+    font-size: 14px;
+}
+
+.open-post__members .divider {
+    width: 2px;
+    height: 15px;
+    margin: 0 5px;
+    background-color: var(--grey5);
+}
+
+.open-post__member-status {
+    color: #ffb0e0;
+}
+
+.open-post__photo {
+    position: relative;
+}
+
+/* .open-post__photo img {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+} */
+
+.open-post__img {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    background-image: url("https://blog.kakaocdn.net/dn/Usp1a/btrFHKCTU4g/naNy3xRnUrvRkOR3gTCH7k/img.gif");
+    background-size: cover;
+    background-position: center;
+}
+
+.open-post__heart-count {
+    background-color: var(--grey8);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 12px;
+}
+
+.open-post__heart-count span {
+    margin-left: 3px;
+}
