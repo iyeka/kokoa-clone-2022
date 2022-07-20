@@ -3,7 +3,7 @@
 ---
 
 - [ ] _코코아 클론 챌린지 완출_
-- [ ] _바닐라JS 강의 #2.16까지 완강_
+- [ ] _바닐라JS 강의 #3.5까지 완강_
 
 ### 이번 주 결과
 
@@ -67,6 +67,7 @@
   - html에서 아예 없애려면 JS 써야함
 
 - _.reply:focus-within .reply-column:_
+
   - reply 내부에 어떤 element가 focus되어 있다면? reply-column에 뭔갈 해라
 
   ### 😭 보완사항
