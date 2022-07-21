@@ -76,3 +76,13 @@
 
 - _코코아 클론코딩 #6.39 뭔 말인지 하나도 모르겠음... css animations 추가 공부가 필요할 듯_
 - _코코아 클론코딩 최종제출과제 디벨롭_
+
+## 📌 주간 회고록을 제출해주세요 (필수)
+
+[10주스터디\_Weekly_ProgressReport](https://docs.google.com/spreadsheets/d/1UZNSc5GhAPwFGSGfqMW9qDQjQBzab-5vgoywnQGaPzg/edit?usp=sharing)
+
+## 핵심 3줄 요약 (예시)
+
+- _css animations 연습이 필요하다 주말에 연습할 것_
+- _코코아클론 최종제출과제 발전시킬 것_
+- _디스코드 사이드프로젝트 방에 참여할 수 있도록 사이드프로젝트 시작할 것_
